@@ -28,12 +28,9 @@ html {
 
 }
 
-
-a
-
-.nav-button {
+a .nav-button {
   padding: 1em;
-  margin:0 1em;
+  margin: 0 1em;
   font-size: 1.5em;
 }
 
@@ -78,11 +75,11 @@ a
 }
 
 #landing-title-box {
-font-family:sans-serif;
-width: 35vw;
-margin: auto;
-position: relative;
-top: 20vh;
+  font-family: sans-serif;
+  width: 35vw;
+  margin: auto;
+  position: relative;
+  top: 20vh;
 }
 
 .blue {
@@ -102,10 +99,12 @@ top: 20vh;
   background: #55ACEE;
   color: white;
 }
+
 .fa-instagram {
   background: #125688;
   color: white;
 }
+
 .fa {
   padding: 20px;
   font-size: 30px;
@@ -117,6 +116,5 @@ top: 20vh;
 }
 
 .fa:hover {
-    opacity: 0.7;
+  opacity: 0.7;
 }
-
